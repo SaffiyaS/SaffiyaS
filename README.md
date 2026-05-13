@@ -35,8 +35,10 @@ Computer Science undergraduate passionate about software quality and building re
 |--------|-------------|-------|
 | [Z-TAS](https://github.com/Z-TAS-Solutions) | Zero Trust Auth System — biometric palm vein authentication | Android · React · Azure · IoT · PQC |
 | Food Order System | Full-stack QA — designed test cases, tracked bugs, validated APIs | Java · Spring Boot · MySQL · Postman |
+| Automation - Selenium Test Suite | Automated regression testing for shopping workflows using Selenium and TestNG | Java · Selenium · TestNG · Maven |
 | Reserving Underwater | Fully responsive website with modern UI/UX principles | HTML · CSS · JavaScript |
 | SAILMATE | Mobile app prototype for sailing enthusiasts | Figma · UI/UX |
+
 
 ---
 
