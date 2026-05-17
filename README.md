@@ -2,7 +2,7 @@
 
 **QA Engineer & Frontend Developer · CS Undergraduate @ IIT Colombo (University of Westminster UK)**
 
-Computer Science undergraduate passionate about software quality and building reliable, user-friendly applications. I specialise in testing web apps, validating APIs, and catching bugs before users do. Currently in my second year and actively looking for **QA / Frontend internship opportunities**.
+Computer Science undergraduate passionate about software quality and building reliable, user-friendly applications. I specialise in testing web apps, validating APIs, and catching bugs before users do.
 
 ---
 
