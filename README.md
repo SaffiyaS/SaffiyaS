@@ -57,4 +57,4 @@ Computer Science undergraduate passionate about software quality and building re
 
 ---
 
-*Open to QA and Frontend internship opportunities — feel free to reach out!*
+
