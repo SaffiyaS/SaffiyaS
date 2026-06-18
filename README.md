@@ -34,9 +34,9 @@ Computer Science undergraduate passionate about software quality and building re
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**Z-TAS**](https://github.com/Z-TAS-Solutions) | Zero Trust Auth System — biometric palm vein authentication | Android · React · Azure · IoT · PQC |
-| **Food Order System**| Full-stack QA — designed test cases, tracked bugs, validated APIs | Java · Spring Boot · MySQL · Postman |
-| **Automation - Selenium** Test Suite | Automated regression testing for shopping workflows using Selenium and TestNG | Java · Selenium · TestNG · Maven |
-| **Smart Campus API** | RESTful API for managing campus rooms, sensors, and sensor readings with robust exception handling and logging | Java, JAX-RS, Jersey, Maven, Tomcat, REST API |
+**[Smart Campus API](https://github.com/SaffiyaS/SmartCampus)** | RESTful API for managing campus rooms, sensors, and sensor readings with robust exception handling and logging | Java, JAX-RS, Jersey, Maven,   Tomcat, REST API |
+| **Food Order System** | Performed QA testing, designed test cases, tracked defects, and validated APIs | Java, Spring Boot, MySQL, Postman |
+| **[Automation Testing Suite](https://github.com/SaffiyaS/automation-exercise-tests)** | Automated regression testing for shopping workflows using Selenium and TestNG | Java, Selenium, TestNG, Maven |
 | **Reserving Underwater** | Fully responsive website with modern UI/UX principles | HTML · CSS · JavaScript |
 | **SAILMATE** | Mobile app prototype for sailing enthusiasts | Figma · UI/UX |
 
